@@ -13,8 +13,10 @@ An AVS service operates an "active set" of node operators to monitor endpoint re
 
 ---
 
-## **Architecture**
-### **Process Flow**
+## **Process Flow Architecture**
+![Screenshot 2024-11-19 090647](https://github.com/user-attachments/assets/2092ecb7-8df0-4cac-b2f8-d5005b6d4ac3)
+
+
 1. **Request Submission**:
    - Users submit a request to test the liveliness of an endpoint.
    - The request is logged on-chain via the UpLink-AVS smart contract.
@@ -40,7 +42,7 @@ An AVS service operates an "active set" of node operators to monitor endpoint re
 ---
 
 ## **Special Thanks**
-We would like to thank the following individuals and organizations for their support:
+I would like to thank the following individuals and organizations for their support:
 
 - **Wes Floyd, Aarav Raj, Shan Rasool:** For providing guidance and inspiration that helped shape the vision of UpLink-AVS.
 
